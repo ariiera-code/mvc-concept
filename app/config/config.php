@@ -9,7 +9,7 @@
     define('APPROOT', dirname(dirname(__FILE__)));
 
     //URLROOT (Dynamic links)
-    define('URLROOT', 'http://localhost/shoppingskuyyy');
+    define('URLROOT', 'http://localhost/mvcframework');
 
     //Sitename
     define('SITENAME', 'MVC Framework');
